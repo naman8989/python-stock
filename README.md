@@ -54,3 +54,7 @@ Follow these steps to set up and run the application:
 ## License
 
 This project is licensed under the MIT License. 
+![Screenshot 2025-01-02 161405](https://github.com/user-attachments/assets/021a799b-1a3f-44c0-9bfc-5a86e6c79fec)
+
+
+
